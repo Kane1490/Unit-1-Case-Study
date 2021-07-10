@@ -1,7 +1,7 @@
 #Unit 1 homework assignment: Fintech case study: Afterpay
 ## Overview and origin of Afterpay
 ___
-Afterpay is an ASX listed company which is part of the popular and ever-growing financial technology (Fintech) payments actor, specifically, the buy now pay later (BNPL) sector. Afterpay was founded by Nick Molnar and Anthony Eisen in 2015 in Sydney, Australia, and now has millions of customers not only in Australia, but also in the US, Canada, UK and New Zealand.
+Afterpay is an ASX listed company which is part of the popular and ever-growing financial technology (Fintech) payments sector, specifically, the buy now pay later (BNPL) sector. Afterpay was founded by Nick Molnar and Anthony Eisen in 2015 in Sydney, Australia, and now has millions of customers not only in Australia, but also in the US, Canada, UK and New Zealand.
 
 Talking to News.com.au, Nick Molnar explains how he, and then neighbour and co-founder Anthony Eisen came up with the idea for Afterpay. He goes on to explain how they saw a shift in spending amongst millennials after the 2008 financial crisis, saying “There was just a huge swing among Millennials toward spending money on debit cards, not credit cards". He goes on to explain how millennials, now their target audience, are tech savvy and conscious about not falling into debt. This is where they saw a gap in the payments sector and took advantage with a simple, yet extremely popular "layby" themed payments concept.     
 
@@ -9,7 +9,7 @@ Afterpay raised 25 million (25 million shares at $1) at their initial IPO to tak
 
 ## Business Activities 
 ___
-Afterpay provides a service to both retail merchants and customers. It allows retail merchants to increase sales, whilst after pay carries the risk as Afterpay pays the retail merchant straight away and assumes non-payment risk, this is why the retail merchant pays the fee. It allows customers to purchase goods in a BNPL structure without having to use a credit card or apply for a loan, both of which can have interest rates attached. 
+Afterpay provides a service to both retail merchants and customers. It allows retail merchants to increase sales, whilst Afterpay carries the risk as Afterpay pays the retail merchant straight away and assumes non-payment risk, this is why the retail merchant pays the fee. It allows customers to purchase goods in a BNPL structure without having to use a credit card or apply for a loan, both of which can have interest rates attached. 
 
 Afterpays target market, as mentioned above, are millennials, or other individuals that are tech savvy, and more conscious about being in debt. According to Australian Fintech "the number of BNPL users will pass 4 million by 2023 when Australia’s ecommerce market will be worth US$47 billion.". Afterpay recorded a revenue of 450 million in 2020, an increase of 106.6% from the previous year. 
 
